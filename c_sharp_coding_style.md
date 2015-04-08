@@ -2,10 +2,10 @@ C Sharp Coding Style
 ============================
 
 ## Introduction
-This document is describe guidelines and recommendations when developing application using C# language. Our main goal is to define a consistent format and style for every source code produced by all Radya Labs developer.
+This document is describe guidelines and recommendations when developing application using C# language. Our main goal is to define a consistent format and style for every source code produced by all developer.
  
 ##	Scope
-This coding guideline only apply to C# suage and .NET framework common type system. C# is go-to language choice for every project developed by Radya Labs. 
+This coding guideline only apply to C# suage and .NET framework common type system. C# is go-to language choice for every project developed.
 
 
 ## Naming Convention
@@ -65,7 +65,7 @@ This coding guideline only apply to C# suage and .NET framework common type syst
 **Project File**
 
 Always use PascalCase that match root namespace name
-RadyaLabs.csproject -> RadyaLabs.dll -> RadyaLabs
+YourProject.csproject -> YourProject.dll -> YourProject
 
 **Source File**
 
