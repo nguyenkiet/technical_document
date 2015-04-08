@@ -3,7 +3,7 @@ Java Coding Style Guideline
 
 **Version:** 1.0
 
-**Greatly inspired by (thanks guys):**
+**References:**
 
 * [Oracle Code convention for Java](http://www.oracle.com/technetwork/java/index-135089.html)
 * [Google Java style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
