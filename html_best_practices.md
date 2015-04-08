@@ -98,8 +98,6 @@ For writing maintainable and scalable HTML documents.
   * [Don't use script-injected `script` element](#dont-use-script-injected-script-element)
 * [Other](#other)
   * [Indent consistently](#indent-consistently)
-* [Contributors](#contributors)
-* [License](#license)
 
 <!-- /toc -->
 
