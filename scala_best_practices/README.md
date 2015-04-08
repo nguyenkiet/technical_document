@@ -1,12 +1,8 @@
 # Scala Best Practices
 
-<img src="https://raw.githubusercontent.com/monifu/scala-best-practices/master/assets/scala-logo-256.png"  align="right" width="100" height="100" />
-
-A collection of best practices, friendly to people that want to
-contribute.
 
 - Version: `0.4`
-- Updated at: `2014-10-24`
+- Updated at: `2015-04-06`
 
 ## Table of Contents
 
