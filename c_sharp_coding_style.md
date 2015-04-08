@@ -1,8 +1,5 @@
-Windows-C_Sharp-Coding-Style
+C Sharp Coding Style
 ============================
-
-Radya Labs C# Coding Style
-
 
 ## Introduction
 This document is describe guidelines and recommendations when developing application using C# language. Our main goal is to define a consistent format and style for every source code produced by all Radya Labs developer.
@@ -315,10 +312,3 @@ Always camelCase
   ```xml
 	<TextBlock Tap="OnTextBlockRoomFieldTapped" x:Name="TextBlockRoomField" Text="ROOMS" FontSize="42"></TextBlock>
   ```
-
-
-
-
-
-
-
